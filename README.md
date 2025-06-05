@@ -1,6 +1,6 @@
 # JIEJOE_study_photos
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/jiejoe-visual-vue)](https://github.com/yourusername/jiejoe-visual-vue/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/allureluoli/JIEJOE_study_photos)](https://github.com/allureluoli/JIEJOE_study_photos/blob/main/LICENSE)
 ![Vue](https://img.shields.io/badge/Vue-3.x-brightgreen)
 ![GSAP](https://img.shields.io/badge/GSAP-3.x-green)
 
